@@ -13,7 +13,7 @@
 местоположению клиента. Данные должны храниться в базе данных **sqlite**.
 Использовать **NSUserDefaults** или **plist**.
 
-Installation:
+### Installation:
 1. Зайти в AppStore и найти bank_app
 2. Нажать "Установить"
 
